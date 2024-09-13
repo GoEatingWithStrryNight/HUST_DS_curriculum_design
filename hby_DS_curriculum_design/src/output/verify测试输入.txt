@@ -1,0 +1,2 @@
+.\verify.exe ais10.cnf ais10.res
+.\verify.exe sud00009.cnf sud00009.res

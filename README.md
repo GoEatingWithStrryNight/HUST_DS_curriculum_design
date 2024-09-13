@@ -1,0 +1,2 @@
+# HUST_DS_curriculum_design
+华中科技大学2024年数据结构课设——基于SAT的对角线数独游戏求解程序

@@ -308,5 +308,3 @@ function isValidPlacement(board, row, col, num) {
     
     return true;
 }
-
-// 在实际项目中，您需要添加更多函数来处理游戏逻辑，如检查答案、完成游戏等
